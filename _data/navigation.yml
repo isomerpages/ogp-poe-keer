@@ -1,8 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+    url: https://wa.me/+6592287396
   - title: Speeches
     collection: speeches
