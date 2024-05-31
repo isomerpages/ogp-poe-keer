@@ -23,10 +23,23 @@ sections:
           description: View My Portfolio
           url: keerux.com
       variant: center
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - announcements:
+      title: Good Eats
+      id: announcements
+      announcement_items:
+        - title: McDonald's Hershey's Ice Cream
+          date: 31 May 2024
+          announcement: McDonald's Hershey Ice Cream comes in cone, sundae, McFlurry!
+          link_text: ""
+          link_url: ""
+        - title: Economical Cai Fan
+          date: 28 May 2024
+          announcement: For when you want something simple and delicious, caifan is great.
+          link_text: ""
+          link_url: ""
+        - title: Obba Express @ Toa Payoh
+          date: 27 May 2024
+          announcement: Seafood noodles is amazing~
+          link_text: ""
+          link_url: ""
 ---
