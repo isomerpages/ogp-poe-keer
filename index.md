@@ -42,4 +42,21 @@ sections:
           announcement: Seafood noodles is amazing~
           link_text: ""
           link_url: ""
+  - textcards:
+      title: Cool Places in Sg
+      id: textcards
+      description: Some nice places to spend your day
+      cards:
+        - title: MacRitchie Reservoir
+          description: A good place for a hike
+          linktext: Learn more
+          url: https://maps.app.goo.gl/w5gWhkxGcMDjFKTi6
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
