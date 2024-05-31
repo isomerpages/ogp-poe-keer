@@ -51,12 +51,12 @@ sections:
           description: A good place for a hike
           linktext: Learn more
           url: https://maps.app.goo.gl/w5gWhkxGcMDjFKTi6
-        - title: Card
-          description: Card description
+        - title: National Library
+          description: A good place to read and relax
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
+          url: https://maps.app.goo.gl/PpjwH9VADMXSkKdU6
+        - title: Gardens By The Bay
+          description: A good place to learn about plants and nature
           linktext: Learn more
-          url: ""
+          url: https://maps.app.goo.gl/h1SDaoKC3NHSGCyA6
 ---
